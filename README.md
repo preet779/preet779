@@ -7,8 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/preetvasoya" target="blank"><img src="https://img.shields.io/twitter/follow/preetvasoya?logo=twitter&style=for-the-badge" alt="preetvasoya" /></a> </p>
 
-- 🌱 I’m currently learning **Android app development**
-**Flutter app development**
+- 🌱 I’m currently learning **Flutter app development**
 
 - 🔭 I’m currently learning **Data structure and algorithm**
 
